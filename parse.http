@@ -1,0 +1,5 @@
+POST http://127.0.0.1:3000/parse
+Accept: application/json
+Content-Type: text/yaml
+
+< sample.yml
