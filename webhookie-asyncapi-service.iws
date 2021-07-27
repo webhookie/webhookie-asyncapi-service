@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3206b0c-7b8b-4ab0-af68-a38ce240c180" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yo-rc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEVELOPING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parse.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/application.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controllers/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controllers/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controllers/parser.controller.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controllers/ping.controller.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/openapi-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sequence.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webhookie-asyncapi-service.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webhookie-asyncapi-service.ipr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webhookie-asyncapi-service.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webhookie-asyncapi-service.iws" beforeDir="false" afterPath="$PROJECT_DIR$/webhookie-asyncapi-service.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,15 +35,15 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/package.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sample.yml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/parse.http" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/node_modules/@asyncapi/parser/lib/parser.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/node_modules/@asyncapi/parser/types.d.ts" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Dockerfile" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/tsconfig.tsbuildinfo" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/.gitignore" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/node_modules/@asyncapi/parser/types.d.ts" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/controllers/parser.controller.ts" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/parse.http" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/sample.yml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Dockerfile" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/index.ts" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/node_modules/@asyncapi/parser/lib/parser.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1sz5dZrewLPhQWBPv1hb7gQDabr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -94,7 +68,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -198,11 +172,24 @@
       <workItem from="1621862669521" duration="8269000" />
       <workItem from="1621874889405" duration="314000" />
       <workItem from="1621876954231" duration="1315000" />
-      <workItem from="1621921087274" duration="454000" />
+      <workItem from="1621921087274" duration="671000" />
+      <workItem from="1627376675887" duration="51000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1621921555712</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621921555712</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
